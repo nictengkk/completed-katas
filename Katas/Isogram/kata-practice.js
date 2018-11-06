@@ -1,3 +1,7 @@
+// input: string
+// output: boolean
+// if the string contains nothing or no unique characters, return true. Otherwise, return false.
+
 let string = "adhgmas";
 
 const isIsogram = str => {
