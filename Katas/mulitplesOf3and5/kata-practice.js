@@ -8,6 +8,9 @@
 
 // Courtesy of ProjectEuler.net
 
+// resources:
+//https://stackoverflow.com/questions/3746725/how-to-create-an-array-containing-1-n
+
 const solution = number => {
   return number <= 0
     ? 0
