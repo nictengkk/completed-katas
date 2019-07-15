@@ -4,6 +4,7 @@
 
 // resources: using reduce to count instances of elements
 // https://stackoverflow.com/questions/19395257/how-to-count-duplicate-value-in-an-array-in-javascript
+// https://stackoverflow.com/questions/3216013/get-the-last-item-in-an-array
 
 const validParentheses = parens => {
   const arr = parens.split("");
